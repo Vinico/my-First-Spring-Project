@@ -1,0 +1,5 @@
+com/zenatti/my_run_app/configuration/MyRunConfiguration.class
+com/zenatti/my_run_app/controller/MyRunController.class
+com/zenatti/my_run_app/entity/Atividade.class
+com/zenatti/my_run_app/service/MyRunService.class
+com/zenatti/my_run_app/MyRunAppApplication.class
